@@ -1,1 +1,7 @@
 /*Schrijf hier jouw CSS*/
+
+.ul-opd1 {
+    display: flex;
+    justify-content: space-between;
+
+}
