@@ -5,3 +5,11 @@
     justify-content: space-between;
 
 }
+
+.ul-opd2 {
+    display: flex;
+}
+
+.ul-opd2 li {
+    flex-basis: 23em;
+}
