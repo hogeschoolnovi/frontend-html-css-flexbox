@@ -13,3 +13,21 @@
 .ul-opd2 li {
     flex-basis: 23em;
 }
+
+.ul-opd3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.li-topleft {
+    align-self: flex-start;
+}
+
+.li-center {
+    align-self: center;
+}
+
+.li-bottomright {
+    align-self: flex-end;
+}
+
