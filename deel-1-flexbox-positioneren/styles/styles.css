@@ -40,3 +40,15 @@
     margin: 5px;
 }
 
+.div-opd5 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.div-opd5 li {
+    margin-bottom: 40px;
+    align-items: center;
+}
+
