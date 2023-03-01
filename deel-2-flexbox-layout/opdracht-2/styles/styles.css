@@ -29,19 +29,19 @@ nav {
 }
 
 header {
-    flex-basis: 175px;
+    flex-basis: 10vh;
     flex-grow: 0;
     flex-shrink: 0;
 
 }
 
 article {
-    flex-basis: 400px;
+    flex-basis: 80vh;
 
 }
 
 footer {
-    flex-basis: 175px;
+    flex-basis: 10vh;
     flex-grow: 0;
     flex-shrink: 0;
 
