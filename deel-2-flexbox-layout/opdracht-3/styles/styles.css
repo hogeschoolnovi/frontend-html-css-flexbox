@@ -15,16 +15,20 @@ main {
     flex-basis: 75%;
 }
 
-article, aside {
-    flex-basis: 50%;
+article{
+    flex-basis: 70vw;
+}
+
+aside {
+    flex-basis: 20vw;
 }
 
 header {
-    flex-basis: 150px;
+    flex-basis: 15vh;
 }
 
 footer {
-    flex-basis: 150px;
+    flex-basis: 15vh;
 }
 
 nav {
