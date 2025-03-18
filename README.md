@@ -3,8 +3,8 @@
 **Inhoudsopgave**
 
 1. [Inleiding](#inleiding)
-2. [Op dacht 1: Navigatie alignment](#opdracht-1-alignment)
-3. [Opdacht 2: Pagina layout](#opdracht-2-layout)
+2. [Opdracht 1: Navigatie alignment](#opdracht-1-alignment)
+3. [Opdracht 2: Pagina layout](#opdracht-2-layout)
 
 ## Inleiding
 
