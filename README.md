@@ -61,8 +61,7 @@ moet jouw pagina er zo uitzien:
 ![screenshot-eindresultaat-desktop.png](assets/screenshots/screenshot-eindresultaat-desktop.png)
 
 Ook hier gebruik je **uitsluitend** flexbox properties. `padding` mag je wél toepassen, maar `position` en `margin`
-blijven
-verboden terrein.
+blijven verboden terrein.
 
 ### 2a: Globale pagina layout
 
