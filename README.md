@@ -28,6 +28,7 @@ Zorg dat de menu-items in de navigatiebalk er precies zo uitzien als in de voorb
 klaar; jouw taak is om met flexbox de juiste uitlijning te realiseren in styles.css. Let op:
 
 * Je mag geen bestanden verplaatsen.
+* Je mag wel classes toevoegen aan de HTML-elementen wanneer je dit nodig hebt;
 * Je mag `do-not-edit.css` niet aanpassen (hierin staat de basisopmaak, zoals kleuren en typografie).
 * Gebruik **uitsluitend** Flexbox properties voor de uitlijning (dus geen `position`, `margin`of `padding`).
 
